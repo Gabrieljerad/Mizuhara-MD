@@ -7,22 +7,22 @@ global.autoReadAll = true
 global.antitags = true
 
 
-global.Owner = ['919172673114']
-global.OwnerNumber = ['919172673114']
-global.ownertag = ['919172673114']
-global.BotName = "Chizuru Mizuhara"
-global.packname = "Ox.Itachi < 3"
-global.author = "Say.Scotch"
-global.OwnerName = "Scotch"
-global.BotSourceCode = "Oops Sorry I can't give Error 404"
+global.Owner = ['254106516012']
+global.OwnerNumber = ['254106516012']
+global.ownertag = ['254106516012']
+global.BotName = "Gabby md"
+global.packname = "Gabby"
+global.author = "Gabby"
+global.OwnerName = "Gabby"
+global.BotSourceCode = "Oops Sorry I can't give Error"
 global.SupportGroupLink = "https://chat.whatsapp.com/JBDzYnTIrawLBptciuMiFA"
 global.sessionName = "session"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from MizuCore.js  otherwise buttons will not work //
-global.prefa = ['-']
+global.prefa = ['#']
 
-global.location = "Mumbai, India"
+global.location = "Nairobi, kenya"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
@@ -60,13 +60,13 @@ global.mess = {
     jobdone: 'Job done...',
     useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
     botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* can use this command, Baka!',
+    botowner: 'Only my *Owner* can use this command!',
     grouponly: 'This command is only made for *Groups*, Baka!',
     privateonly: 'This command is only made for *Private Chat*, Baka!',
-    botonly: 'Only the *Bot itself* can use this command!',
-    waiting:'*Baka...*',
+    botonly: 'Only the *Bot herself* can use this command!',
+    waiting:'*chillax...*',
     nolink: 'Please provide me *link*, Baka!',
-    error: 'An error occurd!',
+    error: 'An error occured!',
     banned: 'You are *Banned* fron using commands!',
     bangc: 'This Group is *Banned* from using Commands!',
     nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
